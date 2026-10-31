@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+authors:
+  - family-names: Zhou
+    given-names: Weihao
+    affiliation: "Jiangxi University of Finance and Economics"
+title: "Reproducibility code for: A 2-adic logarithm law and analytic isometries for the Collatz odd cores of Mersenne numbers"
+version: 1.0.0
+date-released: 2025-01-01   # 改成实际发布日期
