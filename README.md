@@ -1,0 +1,2 @@
+# mersennecollatz2adic
+mersennecollatz2adic code
